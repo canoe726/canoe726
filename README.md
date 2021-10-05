@@ -44,6 +44,20 @@
 
 </br>
 
+## 플러그인
+
+1. Mixpanel : 이벤트 로그 분석
+2. OneSignal : 푸쉬 관리
+3. Firebase : FCM, Performance, Crashlytics
+4. AppsFlyer : 광고 캠페인 분석
+5. Google Ads : 광고 캠페인 활성화
+6. Google Admob : 앱 내 광고 추가
+7. Fastlane : Flutter 앱 CI/CD
+8. Hackle : A/B 테스트
+
+
+</br>
+
 ### 🏢 경력사항
 
 
