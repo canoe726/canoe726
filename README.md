@@ -16,7 +16,7 @@
 |경험|일자|내용|
 |------|---|------|
 |소프트웨어 마에스트로 12기|2021.06 ~ 2021.11|HomeBody - AI 카메라를 활용한 홈 트레이닝 앱|
-|나우앤 &|2021.03 ~ |Now & - 친환경 플랫폼 웹 서비스|
+|나우앤 &|2021.03 ~ 2021.11|Now & - 친환경 플랫폼 웹 서비스|
 |공공데이터 청년인턴 언택트 해커톤|2020.11.23 ~ 2020.12.21|SeeNear - 시니어를 위한 종합 플랫폼 애플리케이션|
 |체육종합 데이터 활용 경진대회|2020.11.18 ∼ 2020.12.13| 운동약사 - 사회적 약자를 위한 체력증진 및 재활 플랫폼 애플리케이션|
 |2020 Dev-Matching: 웹 프론트엔드 챌린지|2020.08.22 ~ 2020.08.22|웹 개발 - 상위 1%|
@@ -41,6 +41,15 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Google Ads-4285F4?style=flat-square&logo=GoogleAds&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>&nbsp;
 
 </br>
 
