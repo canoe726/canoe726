@@ -1,14 +1,12 @@
 # 김영배 Young Bae Kim
 
 
-👋 안녕하십니까, 저는 세종대학교 디지털콘텐츠학과에서 컴퓨터 공학을 2020년 까지 공부하였습니다.
+안녕하세요. 데이터로 일하는 프론트엔드 개발자 김영배입니다.
 </br></br>
  
-소프트마에스트로 12기 연수생으로서 AI를 활용한 운동앱 [HomeBody](https://play.google.com/store/apps/details?id=com.fitbuddy.homebody) 를 개발하고 있습니다.
+[자기소개 보러가기](https://bit.ly/3bMKMx0)
 </br></br>
- 
-친환경 플랫폼 [나우앤 &](http://nowand.life/) 웹 서비스를 개발하고 있습니다.
-</br></br>
+
 
 ### 📋 최근 경험들
 
