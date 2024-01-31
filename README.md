@@ -1,109 +1,23 @@
 # 김영배 Young Bae Kim
 
+책임감 있는 빌더 개발자 김영배입니다.
 
-안녕하세요. 데이터로 일하는 프론트엔드 개발자 김영배입니다.
-</br></br>
- 
-[자기소개 보러가기](https://bit.ly/3bMKMx0)
-</br></br>
+[포트폴리오 보러가기](https://polished-pullover-a70.notion.site/b09992361eb44527af664be0ffc87401)
 
+#### 경력
 
-### 📋 최근 경험들
+**Frontend Developer**
 
+- 엔터프라이즈 블록체인 (2022.09 ~)
 
-|경험|일자|내용|
-|------|---|------|
-|소프트웨어 마에스트로 12기|2021.06 ~ 2021.11|HomeBody - AI 카메라를 활용한 홈 트레이닝 앱|
-|나우앤 &|2021.03 ~ 2021.11|Now & - 친환경 플랫폼 웹 서비스|
-|공공데이터 청년인턴 언택트 해커톤|2020.11.23 ~ 2020.12.21|SeeNear - 시니어를 위한 종합 플랫폼 애플리케이션|
-|체육종합 데이터 활용 경진대회|2020.11.18 ∼ 2020.12.13| 운동약사 - 사회적 약자를 위한 체력증진 및 재활 플랫폼 애플리케이션|
-|2020 Dev-Matching: 웹 프론트엔드 챌린지|2020.08.22 ~ 2020.08.22|웹 개발 - 상위 1%|
-|마이리얼트립 Android 과제 챌린지|2020.03.16 ~ 2020.04.03|Rss Reader 앱 개발 - 상위 11%|
+- 노써치 (2021.12 ~ 2022.09)
 
-</br>
+#### 경험
 
-### 🧰 기술 스택
+- SW마에스트로 12기 우수자 (2021.06 ~ 2022.1)
 
+- SW마에스트로 Expert 1, 2기
 
+#### 기술스택
 
-![](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=Fastlane&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Google Ads-4285F4?style=flat-square&logo=GoogleAds&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>&nbsp;
-
-</br>
-
-## 플러그인
-
-1. Mixpanel : 이벤트 로그 분석
-2. OneSignal : 푸쉬 관리
-3. Firebase : FCM, Performance, Crashlytics
-4. AppsFlyer : 광고 캠페인 분석
-5. Google Ads : 광고 캠페인 활성화
-6. Google Admob : 앱 내 광고 추가
-7. Fastlane : Flutter 앱 CI/CD
-8. Hackle : A/B 테스트
-
-
-</br>
-
-### 🏢 경력사항
-
-
-|근무지|기간|내용|
-|------------|------------|---------|
-|공공데이터 청년인턴|2020.09.07 ~ 2020.12.24|행정안전부/NIA 인턴 업무 수행,</br>수행기간 동안 공공데이터 개방,</br>품질진단, 온라인 실측 업무 수행|
-|AI를 활용한 롤 모델의</br>Activity Profile Timeline</br>추출 기반 멘토링 서비스</br>시스템 개발 프로젝트 참여|2018.05.01 ~ 2019.04.30|롤 모델 데이터 수집,</br>롤 모델 문서 직업 분류 모델 수립 및 성능 평가|
-|㈜케이웨어|2018.07.02 ~ 2018.07.27|전공인턴십 과목과 연계된 ㈜케이웨어 기업에서 인턴 업무 수행,</br>Java, HTML, CSS, PHP를 활용하여 위키백과 형태를 가진</br>롤 모델 추천 웹 어플리케이션 프로토타입 개발|
-
-
-</br>
-
-### 💼 자격증
-
-|자격증명|취득일|발급기관|
-|------|---|---|
-|정보처리기사|2020.11.12|한국산업인력공단|
-|컴퓨터활용능력 2급|2008.01.11|대한상공회의소|
-|워드프로세서 1급|2007.06.08|대한상공회의소|
-
-
-</br>
-
-### 🏆 수상경력
-
-|수상명|취득일|기관명|등수(순위)|내용|
-|---|---|------|---|---|
-|공공데이터 청년인턴 우수인턴|2020.12.23|행정안전부</br>/NIA|행정안전부</br>장관상|온라인 기준의 실측업무 수행,</br>문제해결을 위한 데이터 활용을</br>통한 적극적 인턴십 참여,</br>공공데이터 활용 아이디어 제안|
-|공공데이터 청년인턴 언택트해커톤|2020.12.23|행정안전부</br>/NIA|NIA원장상</br>우수상|시니어를 위한 건강, 교육, 일자리, 커뮤니티</br>종합 플랫폼 애플리케이션 서비스 개발|
-|제 7회 세종대학교 SW 해커톤|2019.12.27|세종대학교|장려상|교내 트랙제도를 활용한</br>자기개발 웹사이트 개발|
-|제 6회 창의설계경진대회|2018.12.14|세종대학교|우수상|인공지능을 활용한 롤 모델 추천</br>웹 어플리케이션 개발|
-|제5회 세종대학교 SW 경시대회|2018.12.14|세종대학교|4등|교내 코딩테스트 대회 4등|
-|2017년 교내 제4회 SW경시대회|2017.11.28|세종대학교|5등|교내 코딩테스트 대회 5등|
-
-
-</br>
-
-#### ⭐  최근 활동
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=canoe726&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
+`React` `Next.js` `TailwindCSS` `Vite` `Node.js` `ReactQuery` `Zustand`
